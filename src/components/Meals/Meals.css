@@ -1,0 +1,8 @@
+.meals-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 5px;
+}
+.search-field{
+    text-align: center;
+}
